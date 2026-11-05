@@ -16,3 +16,4 @@ Thumbs.db
 *.json.key
 service-account*.json
 .env
+

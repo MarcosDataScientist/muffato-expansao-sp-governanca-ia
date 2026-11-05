@@ -1,0 +1,13 @@
+nm_variavel,vl_importancia_gini,vl_importancia_permutacao_media,vl_importancia_permutacao_std,ds_papel_decisao_lgpd,dt_auditoria_xai
+vl_pib_total_mil_reais,0.208,0.0255,0.0043,Alto impacto na distinção de escala e formato,2026-11-05T00:36:28Z
+qt_populacao_residente,0.1732,0.0511,0.0029,Alto impacto na distinção de escala e formato,2026-11-05T00:36:28Z
+vl_densidade_demografica_hab_km2,0.1344,0.0338,0.0025,Alto impacto na distinção de escala e formato,2026-11-05T00:36:28Z
+pc_agropecuaria_economia,0.1139,0.0107,0.0023,Alto impacto na distinção de escala e formato,2026-11-05T00:36:28Z
+qt_minimercados_mercearias,0.0928,0.0133,0.0027,Impacto complementar de vocação setorial/renda,2026-11-05T00:36:28Z
+vl_massa_salarial_per_capita_reais,0.0814,0.0426,0.0051,Impacto complementar de vocação setorial/renda,2026-11-05T00:36:28Z
+vl_densidade_empresarial_por_mil_hab,0.049,0.0025,0.0011,Impacto complementar de vocação setorial/renda,2026-11-05T00:36:28Z
+vl_concorrentes_por_10k_hab,0.0458,0.0139,0.0032,Impacto complementar de vocação setorial/renda,2026-11-05T00:36:28Z
+vl_pib_per_capita_reais,0.0311,-0.0014,0.0012,Impacto complementar de vocação setorial/renda,2026-11-05T00:36:28Z
+pc_servicos_economia,0.0266,0.0045,0.0019,Impacto complementar de vocação setorial/renda,2026-11-05T00:36:28Z
+pc_industria_economia,0.0255,0.001,0.0013,Impacto complementar de vocação setorial/renda,2026-11-05T00:36:28Z
+vl_salario_medio_mensal_reais,0.0183,0.0019,0.0019,Impacto complementar de vocação setorial/renda,2026-11-05T00:36:28Z

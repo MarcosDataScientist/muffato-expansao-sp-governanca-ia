@@ -1,0 +1,60 @@
+# ==============================================================================
+# CONFIGURAÇÃO GLOBAL DO AMBIENTE FINAL — EXPANSÃO GRUPO MUFFATO (SP)
+# Disciplina: Governança de TI e de Dados (UEL)
+# ==============================================================================
+
+project_metadata:
+  name: "muffato-expansao-sp-governanca"
+  version: "1.0.0"
+  dataset_version: "v2.0-ibge-2022"
+  random_state: 42
+  uf_alvo: "SP"
+  total_municipios_esperados: 645
+
+gcp:
+  enabled: true
+  project_id: "projeto-governanca"       # Projeto GCP: Projeto Governanca (880467226627)
+  location: "US"                         # US multi-region possui Free Tier completo no BigQuery e GCS
+  datasets:
+    bronze: "muffato_bronze"
+    silver: "muffato_silver"
+    gold: "muffato_gold"
+  tables:
+    silver_municipios: "municipios_sp_governado"
+    gold_recomendacoes: "expansao_recomendacoes_iav"
+    gold_experiments: "mlops_experiments_log"
+    gold_monitoring: "mlops_monitoring_drift"
+
+modelagem_etapa3:
+  features_selecionadas:
+    - "qt_populacao_residente"
+    - "vl_densidade_demografica_hab_km2"
+    - "vl_massa_salarial_per_capita_reais"
+    - "vl_salario_medio_mensal_reais"
+    - "vl_pib_per_capita_reais"
+    - "vl_pib_total_mil_reais"
+    - "pc_servicos_economia"
+    - "pc_industria_economia"
+    - "pc_agropecuaria_economia"
+    - "vl_densidade_empresarial_por_mil_hab"
+  clustering:
+    k_candidates: [3, 4, 5, 6]
+    default_k: 4
+    n_init: 50
+  iav_pesos:
+    demografico: 0.30
+    poder_compra: 0.30
+    dinamismo_economico: 0.25
+    ambiente_empresarial: 0.15
+  classificador_formatos:
+    test_size: 0.25
+    cv_folds: 5
+
+monitoramento_etapa4:
+  thresholds:
+    max_missing_rate: 0.00          # 0% de nulos tolerados na camada Silver/Gold
+    psi_drift_warning: 0.10         # PSI >= 0.10: Alerta moderado de mudança de distribuição
+    psi_drift_critical: 0.25        # PSI >= 0.25: Drift crítico -> Acionar retreinamento
+    ks_pvalue_alpha: 0.05           # p-value < 0.05 no teste KS indica drift estatístico
+    min_f1_score_producao: 0.80     # Limite mínimo aceitável para o classificador de formatos
+

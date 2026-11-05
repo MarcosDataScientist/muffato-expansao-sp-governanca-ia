@@ -1,0 +1,646 @@
+cd_municipio,cd_municipio_receita_federal,nr_ddd,nm_regiao_metropolitana,vl_latitude,vl_longitude,ds_fonte_geoespacial,dt_ingestao_bronze
+3500105,6101,18,Interior / Fora de RM,-21.576733,-51.056627,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3500204,6103,17,Região Metropolitana de São José do Rio Preto,-21.288677,-49.653296,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3500303,6105,19,Interior / Fora de RM,-22.050075,-47.04026,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3500402,6107,19,Interior / Fora de RM,-21.913785,-46.691596,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3500501,6109,19,Interior / Fora de RM,-22.474753,-46.603692,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3500550,7019,14,Interior / Fora de RM,-22.857908,-49.261108,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3500600,6111,19,Região Metropolitana de Piracicaba,-22.600082,-47.876006,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3500709,6113,14,Interior / Fora de RM,-22.571857,-49.108409,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3500758,2995,15,Região Metropolitana de Sorocaba,-23.549037,-47.868968,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3500808,6115,18,Interior / Fora de RM,-21.935446,-51.395774,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3500907,6117,17,Interior / Fora de RM,-20.533435,-49.094025,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501004,6119,16,Região Metropolitana de Ribeirão Preto,-21.018034,-47.386097,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501103,6121,18,Interior / Fora de RM,-21.612753,-50.192126,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501152,3065,11,Região Metropolitana de Sorocaba,-23.533081,-47.281262,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501202,6123,17,Interior / Fora de RM,-20.289681,-49.920075,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501301,6125,18,Interior / Fora de RM,-22.131886,-51.515128,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501400,6127,14,Interior / Fora de RM,-22.086759,-49.733551,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501509,6129,14,Interior / Fora de RM,-22.452549,-49.758547,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501608,6131,19,Região Metropolitana de Campinas,-22.723356,-47.289096,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501707,6133,16,Interior / Fora de RM,-21.722248,-48.032109,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501806,6135,17,Interior / Fora de RM,-20.289606,-49.767794,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3501905,6137,19,Interior / Fora de RM,-22.699094,-46.798796,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502002,6139,19,Região Metropolitana de Piracicaba,-22.121074,-47.677899,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502101,6141,18,Interior / Fora de RM,-20.835572,-51.329726,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502200,6143,15,Interior / Fora de RM,-23.436865,-48.459172,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502309,6145,14,Interior / Fora de RM,-22.799959,-48.174638,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502408,6147,18,Interior / Fora de RM,-22.362146,-51.427753,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502507,6149,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.913996,-45.237243,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502606,6151,17,Interior / Fora de RM,-20.478784,-50.921967,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502705,6153,15,Interior / Fora de RM,-24.421489,-48.817352,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502754,3067,11,Região Metropolitana de Sorocaba,-23.434439,-47.072383,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502804,6155,18,Interior / Fora de RM,-21.113816,-50.574691,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3502903,6157,15,Região Metropolitana de Sorocaba,-23.543908,-47.651484,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503000,6159,16,Aglomeração Urbana de Franca,-20.144853,-47.820635,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503109,6161,14,Interior / Fora de RM,-23.17766,-49.063999,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503158,2991,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.672974,-44.438532,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503208,6163,16,Interior / Fora de RM,-21.791623,-48.181299,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503307,6165,19,Região Metropolitana de Piracicaba,-22.346103,-47.323853,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503356,790,14,Interior / Fora de RM,-21.766499,-50.43096,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503406,6167,14,Interior / Fora de RM,-22.076116,-48.982091,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503505,6169,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.67312,-44.712363,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503604,6171,14,Interior / Fora de RM,-22.632003,-48.652841,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503703,6173,17,Interior / Fora de RM,-21.185735,-48.779044,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503802,6175,19,Região Metropolitana de Campinas,-22.561231,-47.132114,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503901,6177,11,Região Metropolitana de São Paulo,-23.385942,-46.319064,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3503950,2981,17,Interior / Fora de RM,-20.183513,-50.728062,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3504008,6179,18,Interior / Fora de RM,-22.601736,-50.42064,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3504107,6181,11,Interior / Fora de RM,-23.123289,-46.586775,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3504206,6183,17,Interior / Fora de RM,-20.644254,-50.579971,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3504305,6185,14,Interior / Fora de RM,-22.187225,-49.316227,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3504404,6187,18,Interior / Fora de RM,-21.460465,-49.947256,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3504503,6189,14,Interior / Fora de RM,-23.075118,-48.894063,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3504602,6191,17,Região Metropolitana de São José do Rio Preto,-20.931568,-49.437645,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3504701,6193,14,Interior / Fora de RM,-21.892423,-49.333079,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3504800,6195,17,Região Metropolitana de São José do Rio Preto,-20.709802,-49.551949,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3504909,6197,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.733796,-44.334381,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505005,6201,15,Interior / Fora de RM,-23.582836,-49.571969,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505104,6199,18,Interior / Fora de RM,-21.290764,-49.92199,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505203,6203,14,Interior / Fora de RM,-22.06686,-48.718879,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505302,6205,14,Interior / Fora de RM,-22.479496,-48.541629,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505351,2997,15,Interior / Fora de RM,-24.443828,-49.085294,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505401,6207,15,Interior / Fora de RM,-24.888618,-48.426975,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505500,6209,17,Interior / Fora de RM,-20.514227,-48.651973,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505609,6211,16,Região Metropolitana de Ribeirão Preto,-21.232488,-48.095232,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505708,6213,11,Região Metropolitana de São Paulo,-23.505293,-46.877174,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505807,6215,14,Interior / Fora de RM,-21.950578,-50.743966,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3505906,6217,16,Região Metropolitana de Ribeirão Preto,-20.867767,-47.574705,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506003,6219,14,Interior / Fora de RM,-22.253867,-49.126135,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506102,6221,17,Interior / Fora de RM,-20.940495,-48.510701,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506201,6223,18,Interior / Fora de RM,-21.331622,-50.861739,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506300,6225,14,Interior / Fora de RM,-23.030858,-49.491864,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506359,2965,13,Região Metropolitana da Baixada Santista,-23.759762,-46.030109,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506409,6227,18,Interior / Fora de RM,-21.427725,-50.479237,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506508,6229,18,Interior / Fora de RM,-21.261583,-50.350891,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506607,6231,11,Região Metropolitana de São Paulo,-23.624125,-46.021359,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506706,6233,16,Interior / Fora de RM,-21.93506,-48.463607,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506805,6235,14,Interior / Fora de RM,-22.105447,-48.529046,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3506904,6237,14,Interior / Fora de RM,-23.12898,-48.285825,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507001,6239,15,Região Metropolitana de Sorocaba,-23.287623,-47.674972,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507100,6241,11,Interior / Fora de RM,-23.172498,-46.478968,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507159,3059,15,Interior / Fora de RM,-24.316045,-49.16468,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507209,6243,18,Interior / Fora de RM,-22.244444,-50.502025,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507308,6245,14,Interior / Fora de RM,-22.170128,-48.788412,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507407,6247,16,Interior / Fora de RM,-21.610758,-49.07201,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507456,7247,14,Interior / Fora de RM,-22.680559,-48.992311,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507506,6249,14,Interior / Fora de RM,-22.863395,-48.468198,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507605,6251,11,Interior / Fora de RM,-22.938399,-46.556042,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507704,6255,18,Interior / Fora de RM,-21.553345,-50.339465,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507753,792,18,Interior / Fora de RM,-21.176667,-50.209743,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507803,6257,16,Região Metropolitana de Ribeirão Preto,-21.04956,-47.627748,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3507902,6259,14,Interior / Fora de RM,-22.27332,-48.081248,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3508009,6261,15,Interior / Fora de RM,-23.752049,-48.57539,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3508108,6263,18,Interior / Fora de RM,-21.04909,-50.200281,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3508207,6265,16,Aglomeração Urbana de Franca,-20.209301,-47.692912,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3508306,6267,14,Interior / Fora de RM,-22.489388,-49.372956,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3508405,6269,11,Região Metropolitana de Jundiaí,-23.301257,-47.080264,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3508504,6271,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.103732,-45.713358,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3508603,6273,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.702281,-44.991713,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3508702,6275,19,Interior / Fora de RM,-21.539931,-46.617164,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3508801,6277,14,Interior / Fora de RM,-21.731186,-49.548597,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3508900,6279,18,Interior / Fora de RM,-21.949901,-51.223737,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509007,6281,11,Região Metropolitana de São Paulo,-23.376436,-46.744793,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509106,6283,18,Interior / Fora de RM,-21.802145,-51.986854,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509205,6285,11,Região Metropolitana de São Paulo,-23.351421,-46.872038,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509254,2967,13,Interior / Fora de RM,-24.771969,-48.194961,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509304,6287,17,Interior / Fora de RM,-20.873682,-48.83878,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509403,6289,16,Região Metropolitana de Ribeirão Preto,-21.275933,-47.310294,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509452,2999,15,Interior / Fora de RM,-23.606945,-48.441975,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509502,6291,19,Região Metropolitana de Campinas,-22.883738,-47.043778,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509601,6293,11,Região Metropolitana de Jundiaí,-23.218051,-46.760154,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509700,6295,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.701769,-45.532876,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509809,6297,14,Interior / Fora de RM,-22.61084,-50.010173,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509908,6299,13,Interior / Fora de RM,-25.018638,-48.008504,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3509957,794,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.730114,-45.041295,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510005,6301,18,Interior / Fora de RM,-22.808562,-50.421564,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510104,6303,16,Interior / Fora de RM,-21.34279,-48.628372,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510153,2947,14,Interior / Fora de RM,-23.019226,-49.791878,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510203,6305,15,Interior / Fora de RM,-24.039228,-48.289878,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510302,6307,15,Região Metropolitana de Sorocaba,-23.46742,-47.731012,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510401,6309,19,Região Metropolitana de Piracicaba,-22.980657,-47.478041,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510500,6311,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.639646,-45.487824,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510609,6313,11,Região Metropolitana de São Paulo,-23.55004,-46.841982,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510708,6315,17,Interior / Fora de RM,-20.0672,-49.947549,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510807,6317,19,Interior / Fora de RM,-21.800448,-47.088142,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3510906,6319,16,Região Metropolitana de Ribeirão Preto,-21.26327,-47.143978,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3511003,6321,18,Interior / Fora de RM,-20.897642,-51.570225,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3511102,6323,17,Interior / Fora de RM,-21.133739,-48.963627,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3511201,6325,17,Interior / Fora de RM,-21.062811,-49.052755,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3511300,6327,17,Região Metropolitana de São José do Rio Preto,-20.913922,-49.263886,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3511409,6329,14,Interior / Fora de RM,-23.059296,-49.143759,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3511508,6331,15,Região Metropolitana de Sorocaba,-23.1871,-47.757076,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3511607,6333,15,Região Metropolitana de Sorocaba,-23.216622,-47.903939,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3511706,6335,19,Região Metropolitana de Piracicaba,-22.530171,-47.746281,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3511904,6339,18,Interior / Fora de RM,-21.570291,-50.460142,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3512001,6341,17,Interior / Fora de RM,-20.746207,-48.589001,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3512100,6343,17,Interior / Fora de RM,-20.266997,-48.721662,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3512209,6345,19,Região Metropolitana de Piracicaba,-22.369276,-47.141091,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3512308,6347,14,Interior / Fora de RM,-22.965594,-48.04703,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3512407,6349,19,Região Metropolitana de Piracicaba,-22.479459,-47.414801,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3512506,6351,18,Interior / Fora de RM,-21.375598,-50.303372,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3512605,6353,14,Interior / Fora de RM,-23.630184,-49.306797,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3512704,6355,19,Região Metropolitana de Piracicaba,-22.236375,-47.611064,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3512803,6357,19,Região Metropolitana de Campinas,-22.651689,-47.186431,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3512902,6359,17,Interior / Fora de RM,-20.442978,-49.774658,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513009,6361,11,Região Metropolitana de São Paulo,-23.675124,-46.96043,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513108,6363,16,Região Metropolitana de Ribeirão Preto,-21.339588,-47.744559,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513207,6365,16,Aglomeração Urbana de Franca,-20.371312,-47.400896,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513306,6367,18,Interior / Fora de RM,-22.738041,-50.769311,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513405,6369,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.551357,-45.006327,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513504,6371,13,Região Metropolitana da Baixada Santista,-23.865861,-46.40818,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513603,6373,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.052815,-44.941994,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513702,6375,19,Interior / Fora de RM,-21.881204,-47.654637,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513801,6377,11,Região Metropolitana de São Paulo,-23.6973,-46.611394,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513850,7249,17,Interior / Fora de RM,-20.448617,-50.628116,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3513900,6379,19,Interior / Fora de RM,-21.661695,-46.697991,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514007,6381,16,Interior / Fora de RM,-21.516173,-48.357454,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514106,6383,14,Interior / Fora de RM,-22.395876,-48.340553,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514205,6385,17,Interior / Fora de RM,-20.117511,-50.528314,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514304,6387,16,Interior / Fora de RM,-22.117234,-48.333433,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514403,6389,18,Interior / Fora de RM,-21.557089,-51.583982,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514502,6391,14,Interior / Fora de RM,-22.393261,-49.413337,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514601,6393,16,Região Metropolitana de Ribeirão Preto,-21.24709,-47.97974,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514700,6395,18,Interior / Fora de RM,-22.448599,-50.200524,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514809,6397,13,Interior / Fora de RM,-24.49495,-48.233532,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514908,6399,19,Região Metropolitana de Piracicaba,-23.070744,-47.370664,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514924,2975,17,Interior / Fora de RM,-21.16132,-49.092087,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3514957,7251,17,Interior / Fora de RM,-20.952918,-48.847581,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515004,6401,11,Região Metropolitana de São Paulo,-23.651364,-46.851546,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515103,6403,11,Região Metropolitana de São Paulo,-23.854301,-46.830662,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515129,2961,18,Interior / Fora de RM,-21.801403,-51.4721,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515152,2949,19,Região Metropolitana de Campinas,-22.487123,-47.174848,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515186,6865,19,Interior / Fora de RM,-22.192426,-46.793348,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515194,7253,14,Interior / Fora de RM,-22.670855,-49.432961,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515202,6405,17,Interior / Fora de RM,-20.265829,-50.411511,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515301,6407,18,Interior / Fora de RM,-22.485292,-51.669568,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515350,7255,18,Interior / Fora de RM,-22.519104,-52.589034,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515400,6409,14,Interior / Fora de RM,-23.390116,-49.519697,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515509,6411,17,Interior / Fora de RM,-20.27193,-50.283039,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515608,6413,16,Interior / Fora de RM,-21.310663,-48.695271,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515657,796,14,Interior / Fora de RM,-22.365986,-49.542518,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515707,6415,11,Região Metropolitana de São Paulo,-23.560946,-46.373927,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515806,6417,18,Interior / Fora de RM,-21.698942,-51.374032,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3515905,6419,17,Interior / Fora de RM,-20.669598,-50.154906,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516002,6421,18,Interior / Fora de RM,-21.540355,-51.170676,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516101,6423,18,Interior / Fora de RM,-22.88126,-50.695369,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516200,6425,16,Aglomeração Urbana de Franca,-20.555238,-47.381031,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516309,6427,11,Região Metropolitana de São Paulo,-23.273774,-46.723749,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516408,6429,11,Região Metropolitana de São Paulo,-23.314555,-46.736111,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516507,6431,18,Interior / Fora de RM,-21.499861,-50.564792,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516606,6433,14,Interior / Fora de RM,-22.320648,-49.577799,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516705,6435,14,Interior / Fora de RM,-22.231173,-49.689738,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516804,6437,17,Interior / Fora de RM,-20.804343,-50.202506,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516853,798,16,Interior / Fora de RM,-21.791674,-48.447934,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3516903,6439,17,Interior / Fora de RM,-20.638505,-50.415729,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3517000,6441,14,Interior / Fora de RM,-21.783798,-50.028294,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3517109,6443,18,Interior / Fora de RM,-21.340321,-50.198844,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3517208,6445,14,Interior / Fora de RM,-21.573409,-49.764385,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3517307,6447,14,Interior / Fora de RM,-21.879,-49.860637,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3517406,6449,17,Aglomeração Urbana de Franca,-20.314038,-48.364141,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3517505,6451,17,Região Metropolitana de São José do Rio Preto,-20.742957,-49.189894,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3517604,6453,15,Interior / Fora de RM,-24.212505,-48.555813,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3517703,6455,16,Aglomeração Urbana de Franca,-20.482521,-47.775362,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3517802,6457,18,Interior / Fora de RM,-21.086432,-51.279315,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3517901,6459,17,Interior / Fora de RM,-20.374682,-49.002855,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518008,6461,17,Interior / Fora de RM,-20.066809,-50.344523,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518107,6463,14,Interior / Fora de RM,-21.916037,-49.588324,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518206,6465,18,Interior / Fora de RM,-21.285316,-50.695185,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518305,6467,11,Região Metropolitana de São Paulo,-23.427576,-46.058594,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518404,6469,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.793451,-45.232948,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518503,6471,15,Interior / Fora de RM,-23.370181,-48.219206,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518602,6473,16,Região Metropolitana de Ribeirão Preto,-21.39593,-48.226452,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518701,6475,13,Região Metropolitana da Baixada Santista,-23.950434,-46.234854,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518800,6477,11,Região Metropolitana de São Paulo,-23.402683,-46.454788,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518859,7257,16,Região Metropolitana de Ribeirão Preto,-21.45335,-47.979888,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3518909,6479,17,Interior / Fora de RM,-20.628848,-50.713694,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519006,6481,14,Interior / Fora de RM,-21.962437,-50.373235,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519055,2953,19,Região Metropolitana de Campinas,-22.630351,-47.065049,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519071,2951,19,Região Metropolitana de Campinas,-22.878704,-47.207792,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519105,6483,14,Interior / Fora de RM,-21.890898,-49.039642,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519204,6485,14,Interior / Fora de RM,-21.799965,-50.619403,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519253,7259,14,Interior / Fora de RM,-22.819193,-49.106784,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519303,6487,16,Interior / Fora de RM,-21.951095,-48.027312,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519402,6489,17,Região Metropolitana de São José do Rio Preto,-21.074705,-49.220415,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519501,6491,14,Interior / Fora de RM,-22.813129,-50.076842,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519600,6493,16,Interior / Fora de RM,-21.792987,-48.847862,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519709,6495,15,Região Metropolitana de Sorocaba,-23.802337,-47.215227,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519808,6497,17,Região Metropolitana de São José do Rio Preto,-20.367227,-49.185341,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3519907,6499,18,Interior / Fora de RM,-22.648486,-51.057232,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520004,6501,14,Interior / Fora de RM,-22.541706,-48.574586,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520103,6503,16,Aglomeração Urbana de Franca,-20.063716,-47.682417,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520202,6505,11,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.134797,-46.150337,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520301,6507,13,Interior / Fora de RM,-24.549535,-47.474421,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520400,6509,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.848351,-45.323223,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520426,2969,13,Interior / Fora de RM,-24.861986,-47.719798,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520442,2943,18,Interior / Fora de RM,-20.431441,-51.25903,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520509,6511,19,Região Metropolitana de Campinas,-23.106148,-47.202578,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520608,6513,18,Interior / Fora de RM,-22.13419,-51.261869,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520707,6515,17,Interior / Fora de RM,-19.947954,-50.263655,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520806,6517,18,Interior / Fora de RM,-21.739528,-50.95749,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3520905,6519,14,Interior / Fora de RM,-23.06505,-49.608133,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521002,6521,15,Região Metropolitana de Sorocaba,-23.404446,-47.629159,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521101,6523,19,Região Metropolitana de Piracicaba,-22.423875,-47.716092,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521150,800,17,Região Metropolitana de São José do Rio Preto,-20.648199,-49.403463,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521200,6525,15,Interior / Fora de RM,-24.512628,-48.546201,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521309,6527,16,Aglomeração Urbana de Franca,-20.417589,-48.066629,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521408,6529,19,Região Metropolitana de Piracicaba,-22.593662,-47.524257,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521507,6531,17,Região Metropolitana de São José do Rio Preto,-21.267765,-49.397395,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521606,6533,18,Interior / Fora de RM,-21.484843,-51.346581,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521705,6535,15,Interior / Fora de RM,-23.869787,-49.142214,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521804,6537,14,Interior / Fora de RM,-23.469242,-49.05372,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3521903,6539,17,Interior / Fora de RM,-21.355563,-49.053671,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522000,6541,14,Interior / Fora de RM,-21.95174,-48.794155,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522109,6543,13,Região Metropolitana da Baixada Santista,-24.091972,-46.834636,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522158,3053,15,Interior / Fora de RM,-24.617831,-48.838955,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522208,6545,11,Região Metropolitana de São Paulo,-23.737294,-46.85892,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522307,6547,15,Região Metropolitana de Sorocaba,-23.645333,-48.123193,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522406,6549,15,Interior / Fora de RM,-23.913921,-48.871722,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522505,6551,11,Região Metropolitana de São Paulo,-23.550939,-46.967666,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522604,6553,19,Interior / Fora de RM,-22.431894,-46.77207,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522653,3055,15,Interior / Fora de RM,-24.569006,-49.222959,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522703,6555,16,Interior / Fora de RM,-21.548059,-48.815501,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522802,6557,15,Interior / Fora de RM,-23.672867,-49.45854,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3522901,6559,14,Interior / Fora de RM,-22.250961,-48.701234,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3523008,6561,18,Interior / Fora de RM,-20.594977,-51.44049,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3523107,6563,11,Região Metropolitana de São Paulo,-23.461459,-46.333927,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3523206,6565,15,Interior / Fora de RM,-24.080524,-49.303638,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3523305,6567,13,Interior / Fora de RM,-24.292613,-47.12804,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3523404,6569,11,Região Metropolitana de Campinas,-23.006659,-46.814317,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3523503,6571,14,Interior / Fora de RM,-23.15358,-48.629412,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3523602,6573,19,Interior / Fora de RM,-22.294474,-47.834051,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3523701,6575,16,Aglomeração Urbana de Franca,-20.657587,-47.16926,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3523800,6577,19,Interior / Fora de RM,-21.749088,-46.922051,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3523909,6579,11,Região Metropolitana de Sorocaba,-23.307243,-47.284528,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3524006,6581,11,Região Metropolitana de Jundiaí,-23.1465,-47.068465,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3524105,6583,16,Aglomeração Urbana de Franca,-20.329558,-47.809738,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3524204,6585,17,Interior / Fora de RM,-20.650028,-48.41598,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3524303,6587,16,Região Metropolitana de Ribeirão Preto,-21.218321,-48.287931,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3524402,6589,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.29888,-45.990589,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3524501,6591,17,Região Metropolitana de São José do Rio Preto,-20.945277,-49.581195,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3524600,6593,13,Interior / Fora de RM,-24.777235,-48.053816,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3524709,6595,19,Região Metropolitana de Campinas,-22.692015,-47.01277,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3524808,6597,17,Interior / Fora de RM,-20.285961,-50.554039,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3524907,6599,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.279302,-45.710633,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525003,6601,11,Região Metropolitana de São Paulo,-23.544121,-46.89968,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525102,6603,16,Região Metropolitana de Ribeirão Preto,-20.991988,-47.826124,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525201,6605,11,Região Metropolitana de Jundiaí,-23.112019,-46.721373,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525300,6607,14,Interior / Fora de RM,-22.295921,-48.555712,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525409,6609,16,Aglomeração Urbana de Franca,-20.340155,-47.574149,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525508,6611,11,Interior / Fora de RM,-22.938871,-46.209229,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525607,6613,18,Interior / Fora de RM,-22.277813,-50.798926,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525706,6615,17,Região Metropolitana de São José do Rio Preto,-21.089618,-49.77936,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525805,6617,14,Interior / Fora de RM,-21.973342,-49.793342,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525854,802,15,Região Metropolitana de Sorocaba,-23.099558,-47.788079,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3525904,6619,11,Região Metropolitana de Jundiaí,-23.194623,-46.913046,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3526001,6621,18,Interior / Fora de RM,-21.449189,-51.435054,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3526100,6623,13,Interior / Fora de RM,-24.213547,-47.652219,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3526209,6625,11,Região Metropolitana de São Paulo,-23.955161,-47.024581,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3526308,6627,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.085768,-45.20682,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3526407,6629,15,Interior / Fora de RM,-23.012239,-47.865625,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3526506,6631,18,Interior / Fora de RM,-21.151031,-51.032503,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3526605,6633,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.520313,-44.888821,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3526704,6635,19,Região Metropolitana de Piracicaba,-22.172142,-47.337531,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3526803,6637,14,Interior / Fora de RM,-22.676097,-48.825013,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3526902,6639,19,Região Metropolitana de Piracicaba,-22.598441,-47.3636,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527009,6641,19,Interior / Fora de RM,-22.513434,-46.654872,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527108,6643,14,Interior / Fora de RM,-21.64979,-49.683066,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527207,6645,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.793916,-45.060106,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527256,2937,18,Interior / Fora de RM,-20.949216,-50.234018,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527306,6647,19,Região Metropolitana de Jundiaí,-23.084265,-46.937173,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527405,6649,18,Interior / Fora de RM,-21.644488,-50.991724,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527504,6651,14,Interior / Fora de RM,-22.473684,-49.55017,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527603,6653,16,Região Metropolitana de Ribeirão Preto,-21.552713,-47.781946,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527702,6655,18,Interior / Fora de RM,-21.672838,-50.350748,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527801,6657,14,Interior / Fora de RM,-22.427441,-49.816824,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3527900,6659,18,Interior / Fora de RM,-22.325658,-50.385301,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528007,6661,14,Interior / Fora de RM,-22.487124,-48.71898,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528106,6663,17,Região Metropolitana de São José do Rio Preto,-20.838015,-49.974875,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528205,6665,17,Interior / Fora de RM,-20.098101,-50.181606,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528304,6667,17,Interior / Fora de RM,-20.596734,-50.230079,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528403,6669,11,Região Metropolitana de Sorocaba,-23.50787,-47.229327,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528502,6671,11,Região Metropolitana de São Paulo,-23.317274,-46.561244,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528601,6673,14,Interior / Fora de RM,-23.047077,-49.303588,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528700,6675,18,Interior / Fora de RM,-22.127832,-52.056627,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528809,6677,18,Interior / Fora de RM,-22.652155,-50.745091,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528858,2977,17,Interior / Fora de RM,-21.255542,-49.137791,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3528908,6679,18,Interior / Fora de RM,-21.779338,-51.171682,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529005,6681,14,Interior / Fora de RM,-22.178114,-49.982947,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529104,6683,17,Interior / Fora de RM,-20.480103,-50.832284,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529203,6685,18,Interior / Fora de RM,-22.17212,-51.123347,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529302,6687,16,Interior / Fora de RM,-21.610115,-48.430168,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529401,6689,11,Região Metropolitana de São Paulo,-23.666065,-46.446323,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529500,6691,17,Região Metropolitana de São José do Rio Preto,-21.194128,-49.570361,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529609,6693,17,Interior / Fora de RM,-20.398334,-50.186618,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529658,2983,17,Interior / Fora de RM,-19.957609,-50.615555,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529708,6695,16,Aglomeração Urbana de Franca,-20.184613,-48.105361,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529807,6697,14,Interior / Fora de RM,-22.463189,-48.433266,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3529906,6699,13,Interior / Fora de RM,-24.19503,-47.394583,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3530003,6701,17,Interior / Fora de RM,-19.951836,-50.1243,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3530102,6703,18,Interior / Fora de RM,-21.081222,-51.1304,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3530201,6705,18,Interior / Fora de RM,-22.34933,-51.997901,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3530300,6707,17,Região Metropolitana de São José do Rio Preto,-20.827796,-49.504216,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3530409,6709,17,Região Metropolitana de São José do Rio Preto,-20.594926,-49.48697,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3530508,6711,19,Região Metropolitana de Ribeirão Preto,-21.449571,-47.03298,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3530607,6713,11,Região Metropolitana de São Paulo,-23.5695,-46.186079,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3530706,6715,19,Interior / Fora de RM,-22.232183,-47.029097,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3530805,6717,19,Interior / Fora de RM,-22.451366,-46.988414,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3530904,6719,19,Região Metropolitana de Piracicaba,-22.942715,-47.602078,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3531001,6721,17,Interior / Fora de RM,-20.863218,-50.079285,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3531100,6723,13,Região Metropolitana da Baixada Santista,-24.069749,-46.667923,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3531209,6725,19,Interior / Fora de RM,-22.704276,-46.667636,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3531308,6727,16,Região Metropolitana de Ribeirão Preto,-21.25935,-48.532904,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3531407,6729,17,Região Metropolitana de São José do Rio Preto,-20.73739,-49.765867,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3531506,6731,17,Interior / Fora de RM,-20.909061,-48.681296,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3531605,6733,18,Interior / Fora de RM,-21.25525,-51.571344,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3531704,6735,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.936499,-45.804238,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3531803,6737,19,Região Metropolitana de Campinas,-22.953274,-47.307399,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3531902,6739,16,Região Metropolitana de Ribeirão Preto,-20.688734,-48.15336,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532009,6741,11,Região Metropolitana de Campinas,-22.89389,-46.7826,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532058,7263,16,Interior / Fora de RM,-21.513778,-48.170358,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532108,6743,18,Interior / Fora de RM,-20.996746,-51.30134,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532157,804,18,Interior / Fora de RM,-22.596964,-51.201032,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532207,6745,18,Interior / Fora de RM,-22.563637,-51.521741,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532306,6747,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.415138,-45.381504,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532405,6749,11,Interior / Fora de RM,-23.191419,-46.366443,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532504,6751,17,Região Metropolitana de São José do Rio Preto,-20.870714,-49.646565,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532603,6753,17,Interior / Fora de RM,-20.673201,-50.046794,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532702,6755,17,Região Metropolitana de São José do Rio Preto,-20.891686,-49.778303,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532801,6757,17,Região Metropolitana de São José do Rio Preto,-21.06278,-49.515891,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532827,3061,15,Interior / Fora de RM,-24.190619,-48.972913,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532843,2985,17,Interior / Fora de RM,-20.37201,-50.910516,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532868,806,17,Interior / Fora de RM,-20.777906,-50.34573,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3532900,6759,16,Interior / Fora de RM,-21.774373,-48.54969,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533007,6761,17,Região Metropolitana de São José do Rio Preto,-20.476099,-49.331215,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533106,6763,18,Interior / Fora de RM,-21.32239,-51.645425,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533205,6765,18,Interior / Fora de RM,-21.13542,-51.505442,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533254,2979,17,Interior / Fora de RM,-20.988607,-48.918035,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533304,6767,17,Interior / Fora de RM,-20.868714,-50.249219,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533403,6769,19,Região Metropolitana de Campinas,-22.784301,-47.285232,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533502,6771,17,Interior / Fora de RM,-21.469194,-49.283797,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533601,6773,16,Região Metropolitana de Ribeirão Preto,-20.704708,-47.72908,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533700,6775,14,Interior / Fora de RM,-22.438398,-49.937914,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533809,6777,14,Interior / Fora de RM,-22.953879,-49.383125,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3533908,6779,17,Região Metropolitana de São José do Rio Preto,-20.705259,-48.959574,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534005,6781,17,Região Metropolitana de São José do Rio Preto,-20.617588,-49.243844,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534104,6783,14,Interior / Fora de RM,-22.142018,-50.093704,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534203,6785,17,Região Metropolitana de São José do Rio Preto,-20.201814,-49.35566,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534302,6787,16,Região Metropolitana de Ribeirão Preto,-20.697828,-47.90587,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534401,6789,11,Região Metropolitana de São Paulo,-23.528692,-46.789255,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534500,6791,14,Interior / Fora de RM,-22.295604,-50.257278,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534609,6793,18,Interior / Fora de RM,-21.732913,-50.873791,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534708,6795,14,Interior / Fora de RM,-22.952675,-49.852258,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534757,808,17,Interior / Fora de RM,-19.922349,-50.402024,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534807,6797,18,Interior / Fora de RM,-21.510407,-51.737795,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3534906,6799,18,Interior / Fora de RM,-21.495463,-51.274098,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3535002,6801,17,Região Metropolitana de São José do Rio Preto,-20.32151,-49.49764,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3535101,6803,17,Interior / Fora de RM,-21.104601,-48.826619,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3535200,6805,17,Interior / Fora de RM,-20.439203,-50.748631,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3535309,6807,18,Interior / Fora de RM,-22.828847,-50.22076,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3535408,6809,18,Interior / Fora de RM,-21.463514,-51.858125,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3535507,6811,18,Interior / Fora de RM,-22.459016,-50.626518,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3535606,6813,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.478356,-45.641894,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3535705,6815,17,Interior / Fora de RM,-21.019808,-48.764391,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3535804,6817,14,Interior / Fora de RM,-23.438509,-48.795263,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3535903,6819,17,Interior / Fora de RM,-20.063826,-50.594019,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536000,6821,18,Interior / Fora de RM,-21.853078,-50.821633,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536109,6823,14,Interior / Fora de RM,-23.102144,-48.401812,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536208,6825,13,Interior / Fora de RM,-24.678307,-47.850052,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536257,2989,17,Interior / Fora de RM,-20.271711,-50.037324,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536307,6827,16,Aglomeração Urbana de Franca,-20.704122,-47.289395,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536406,6829,18,Interior / Fora de RM,-21.198535,-51.790821,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536505,6831,19,Região Metropolitana de Campinas,-22.748346,-47.145094,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536570,810,14,Interior / Fora de RM,-22.568502,-49.305487,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536604,6833,17,Região Metropolitana de São José do Rio Preto,-20.066669,-49.463267,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536703,6835,14,Interior / Fora de RM,-22.301058,-48.861102,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536802,6837,11,Interior / Fora de RM,-22.775811,-46.441801,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3536901,6839,17,Interior / Fora de RM,-20.210152,-50.106907,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537008,6841,16,Aglomeração Urbana de Franca,-20.205559,-47.43908,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537107,6843,19,Região Metropolitana de Campinas,-22.754798,-46.888491,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537156,2963,18,Interior / Fora de RM,-22.816946,-50.802261,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537206,6845,13,Interior / Fora de RM,-24.163711,-47.163436,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537305,6847,18,Interior / Fora de RM,-21.40542,-50.095609,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537404,6849,18,Interior / Fora de RM,-20.678033,-51.105958,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537503,6851,14,Interior / Fora de RM,-23.120348,-47.978867,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537602,6853,13,Região Metropolitana da Baixada Santista,-24.278921,-47.012798,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537701,6855,18,Interior / Fora de RM,-21.571536,-50.643461,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537800,6857,15,Região Metropolitana de Sorocaba,-23.786925,-47.438123,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3537909,6859,15,Região Metropolitana de Sorocaba,-23.856418,-47.728099,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3538006,6861,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.880005,-45.459335,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3538105,6863,17,Interior / Fora de RM,-21.209722,-48.911579,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3538204,6867,11,Interior / Fora de RM,-22.7788,-46.573421,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3538303,6869,18,Interior / Fora de RM,-21.853129,-51.731681,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3538501,6871,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.590277,-45.173881,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3538600,6873,11,Interior / Fora de RM,-23.046918,-46.302337,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3538709,6875,19,Região Metropolitana de Piracicaba,-22.726273,-47.78387,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3538808,6877,14,Interior / Fora de RM,-23.186926,-49.366107,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3538907,6879,14,Interior / Fora de RM,-21.957768,-49.413779,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3539004,6881,17,Interior / Fora de RM,-21.094127,-48.669216,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3539103,6883,11,Região Metropolitana de São Paulo,-23.378278,-46.984883,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3539202,6885,18,Interior / Fora de RM,-22.479649,-51.619749,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3539301,6887,19,Região Metropolitana de Piracicaba,-21.995948,-47.389977,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3539400,6889,14,Interior / Fora de RM,-22.424927,-49.191784,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3539509,6891,16,Região Metropolitana de Ribeirão Preto,-21.006127,-48.249441,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3539608,6893,18,Região Metropolitana de São José do Rio Preto,-21.001312,-49.935886,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3539707,6895,18,Interior / Fora de RM,-22.625494,-50.212897,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3539806,6897,11,Região Metropolitana de São Paulo,-23.530518,-46.346766,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3539905,6899,17,Região Metropolitana de São José do Rio Preto,-20.753058,-49.820094,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540002,6901,14,Interior / Fora de RM,-22.029606,-50.187907,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540101,6903,14,Interior / Fora de RM,-21.730175,-49.358968,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540200,6905,16,Região Metropolitana de Ribeirão Preto,-20.984527,-48.06446,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540259,2987,17,Interior / Fora de RM,-20.450999,-50.525186,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540309,6907,17,Interior / Fora de RM,-20.175028,-49.75718,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540408,6909,17,Interior / Fora de RM,-19.9073,-50.517412,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540507,6911,15,Interior / Fora de RM,-23.173849,-48.117393,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540606,6913,15,Região Metropolitana de Sorocaba,-23.23029,-47.516912,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540705,6915,19,Interior / Fora de RM,-21.842609,-47.44725,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540754,2993,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.825242,-45.303378,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540804,6917,17,Região Metropolitana de São José do Rio Preto,-21.0755,-49.391693,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540853,812,18,Interior / Fora de RM,-21.837858,-51.075049,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3540903,6919,16,Região Metropolitana de Ribeirão Preto,-21.344415,-48.085985,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541000,6921,13,Região Metropolitana da Baixada Santista,-24.015166,-46.522803,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541059,814,14,Interior / Fora de RM,-22.818574,-48.696862,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541109,6923,14,Interior / Fora de RM,-22.122196,-49.431846,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541208,6925,18,Interior / Fora de RM,-22.107253,-51.620222,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541307,6927,18,Interior / Fora de RM,-21.910298,-52.174463,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541406,6929,18,Interior / Fora de RM,-21.99338,-51.34303,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541505,6931,18,Interior / Fora de RM,-21.793033,-51.83839,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541604,6933,14,Interior / Fora de RM,-21.524787,-49.870469,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541653,816,15,Interior / Fora de RM,-23.30105,-48.038549,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541703,6935,18,Interior / Fora de RM,-22.206179,-50.645241,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541802,6937,14,Interior / Fora de RM,-21.800649,-50.245613,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3541901,6939,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.504177,-44.785238,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3542008,6941,14,Interior / Fora de RM,-22.100484,-50.3692,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3542107,6943,19,Região Metropolitana de Piracicaba,-23.045161,-47.583707,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3542206,6945,18,Interior / Fora de RM,-22.282751,-50.928361,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3542305,6947,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.25372,-45.526224,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3542404,6949,18,Interior / Fora de RM,-22.251261,-51.294042,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3542503,6951,14,Interior / Fora de RM,-21.883041,-49.180507,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3542602,6953,13,Interior / Fora de RM,-24.504035,-47.820726,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3542701,6955,16,Aglomeração Urbana de Franca,-20.648195,-47.505959,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3542800,6957,15,Interior / Fora de RM,-24.60734,-49.036598,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3542909,6959,16,Interior / Fora de RM,-22.060093,-48.185352,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543006,6961,15,Interior / Fora de RM,-24.256145,-48.778124,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543105,6963,16,Aglomeração Urbana de Franca,-20.448999,-47.573298,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543204,6965,14,Interior / Fora de RM,-22.751725,-49.922547,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543238,818,18,Interior / Fora de RM,-21.784534,-51.583386,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543253,3057,15,Interior / Fora de RM,-24.188587,-48.358763,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543303,6967,11,Região Metropolitana de São Paulo,-23.701061,-46.402862,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543402,6969,16,Região Metropolitana de Ribeirão Preto,-21.210797,-47.821263,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543501,6971,15,Interior / Fora de RM,-23.846841,-49.447746,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543600,6973,16,Aglomeração Urbana de Franca,-20.060796,-47.440924,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543709,6975,16,Interior / Fora de RM,-21.593898,-48.032331,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543808,6977,18,Interior / Fora de RM,-21.681196,-50.717472,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3543907,6979,19,Região Metropolitana de Piracicaba,-22.373847,-47.57994,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544004,6981,19,Região Metropolitana de Piracicaba,-22.850318,-47.598438,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544103,6983,11,Região Metropolitana de São Paulo,-23.737845,-46.379433,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544202,6985,17,Interior / Fora de RM,-20.023779,-49.708954,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544251,7265,18,Interior / Fora de RM,-22.488966,-52.836917,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544301,6987,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.932948,-45.302623,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544400,6989,18,Interior / Fora de RM,-21.361095,-50.785865,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544509,6991,17,Interior / Fora de RM,-20.249887,-51.018369,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544608,6993,14,Interior / Fora de RM,-21.469493,-49.577656,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544707,6995,18,Interior / Fora de RM,-21.868057,-50.990226,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544806,6997,17,Região Metropolitana de São José do Rio Preto,-21.347219,-49.502748,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3544905,6999,16,Região Metropolitana de Ribeirão Preto,-20.831435,-47.854405,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3545001,7001,11,Região Metropolitana de São Paulo,-23.580215,-45.84263,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3545100,7003,18,Interior / Fora de RM,-21.588082,-50.876312,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3545159,5445,19,Região Metropolitana de Piracicaba,-22.871168,-47.731737,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3545209,7005,11,Região Metropolitana de Sorocaba,-23.180687,-47.302804,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3545308,7007,15,Região Metropolitana de Sorocaba,-23.65283,-47.580649,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3545407,7009,14,Interior / Fora de RM,-22.870885,-49.960821,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3545506,7011,18,Interior / Fora de RM,-22.477797,-51.841951,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3545605,7013,17,Interior / Fora de RM,-21.317832,-48.818872,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3545704,7015,17,Interior / Fora de RM,-20.014238,-50.727804,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3545803,7017,19,Região Metropolitana de Campinas,-22.80058,-47.428077,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546009,7021,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.426449,-45.863287,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546108,7023,17,Interior / Fora de RM,-20.06697,-50.908573,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546207,7025,19,Região Metropolitana de Piracicaba,-22.121411,-47.485534,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546256,820,16,Região Metropolitana de Ribeirão Preto,-21.274849,-47.439637,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546306,7027,19,Interior / Fora de RM,-21.855593,-47.250121,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546405,7029,14,Interior / Fora de RM,-22.809478,-49.568721,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546504,7031,16,Interior / Fora de RM,-21.45257,-48.366787,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546603,7033,17,Interior / Fora de RM,-20.241829,-50.950034,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546702,7035,19,Região Metropolitana de Piracicaba,-22.475142,-47.521283,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546801,7037,11,Região Metropolitana de São Paulo,-23.288922,-46.24232,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3546900,7039,16,Interior / Fora de RM,-21.670837,-48.057513,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547007,7041,19,Região Metropolitana de Piracicaba,-22.564448,-48.15423,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547106,7043,18,Interior / Fora de RM,-21.316797,-51.737036,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547205,7045,17,Interior / Fora de RM,-20.260831,-50.797121,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547304,7047,11,Região Metropolitana de São Paulo,-23.449446,-46.916781,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547403,7049,17,Interior / Fora de RM,-20.097175,-50.812822,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547502,7051,19,Região Metropolitana de Ribeirão Preto,-21.682493,-47.508001,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547601,7053,16,Região Metropolitana de Ribeirão Preto,-21.503797,-47.366252,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547650,822,17,Interior / Fora de RM,-20.258772,-50.720082,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547700,7055,18,Interior / Fora de RM,-22.037716,-51.722391,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547809,7057,11,Região Metropolitana de São Paulo,-23.727918,-46.44161,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3547908,7059,16,Região Metropolitana de Ribeirão Preto,-21.09239,-47.195801,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548005,7061,19,Região Metropolitana de Campinas,-22.603295,-46.949911,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548054,2939,18,Interior / Fora de RM,-20.873017,-50.554404,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548104,7063,19,Interior / Fora de RM,-22.130385,-46.683318,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548203,7065,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.831768,-45.697988,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548302,7067,18,Interior / Fora de RM,-21.825528,-51.370257,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548401,7069,18,Interior / Fora de RM,-21.660337,-50.517952,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548500,7071,13,Região Metropolitana da Baixada Santista,-23.868841,-46.291558,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548609,7073,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.681531,-45.686758,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548708,7075,11,Região Metropolitana de São Paulo,-23.812943,-46.550846,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548807,7077,11,Região Metropolitana de São Paulo,-23.626369,-46.566044,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3548906,7079,16,Interior / Fora de RM,-21.918807,-47.867176,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549003,7081,17,Interior / Fora de RM,-20.3657,-50.67594,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549102,7083,19,Interior / Fora de RM,-21.977952,-46.802184,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549201,7085,17,Interior / Fora de RM,-20.408527,-50.383401,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549250,2941,17,Interior / Fora de RM,-20.521078,-50.356385,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549300,7087,18,Interior / Fora de RM,-21.223398,-51.673123,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549409,7089,16,Aglomeração Urbana de Franca,-20.550645,-47.938601,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549508,7091,16,Aglomeração Urbana de Franca,-20.587487,-47.62718,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549607,7093,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.748811,-44.587222,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549706,7095,19,Interior / Fora de RM,-21.60377,-46.879576,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549805,7097,17,Região Metropolitana de São José do Rio Preto,-20.797263,-49.358084,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549904,7099,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.09052,-45.928608,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3549953,5447,11,Região Metropolitana de São Paulo,-23.852432,-46.936372,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3550001,7101,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.240129,-45.253856,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3550100,7103,14,Interior / Fora de RM,-22.682246,-48.540433,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3550209,7105,15,Região Metropolitana de Sorocaba,-23.913898,-47.993416,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3550308,7107,11,"Região Metropolitana de São Paulo, Região Metropolitana de São Paulo, Região Metropolitana de São Paulo, Região Metropolitana de São Paulo, Região Metropolitana de São Paulo",-23.64986,-46.648059,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3550407,7109,19,Região Metropolitana de Piracicaba,-22.55788,-47.924813,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3550506,7111,14,Interior / Fora de RM,-22.679149,-49.772191,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3550605,7113,11,Região Metropolitana de Sorocaba,-23.548967,-47.109562,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3550704,7115,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.752717,-45.606261,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3550803,7117,19,Interior / Fora de RM,-21.753983,-46.753111,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3550902,7119,16,Região Metropolitana de Ribeirão Preto,-21.461431,-47.568352,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3551009,7121,13,Região Metropolitana da Baixada Santista,-23.959126,-46.488143,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3551108,7123,15,Região Metropolitana de Sorocaba,-23.664336,-47.785845,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3551207,7125,14,Interior / Fora de RM,-23.257619,-49.481679,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3551306,7127,17,Interior / Fora de RM,-20.629266,-49.915759,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3551405,7129,16,Região Metropolitana de Ribeirão Preto,-21.315985,-47.549721,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3551504,7131,16,Região Metropolitana de Ribeirão Preto,-21.216855,-47.612425,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3551603,7133,19,Interior / Fora de RM,-22.589079,-46.687306,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3551702,7135,16,Região Metropolitana de Ribeirão Preto,-21.12294,-48.008914,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3551801,7137,13,Interior / Fora de RM,-24.27391,-47.934146,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3551900,7139,17,Região Metropolitana de São José do Rio Preto,-20.79328,-48.793637,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552007,7141,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.734671,-44.840939,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552106,7143,19,Interior / Fora de RM,-22.611169,-46.524388,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552205,7145,15,Região Metropolitana de Sorocaba,-23.464482,-47.446799,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552304,7147,18,Interior / Fora de RM,-20.66683,-50.900909,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552403,7149,19,Região Metropolitana de Campinas,-22.842014,-47.262853,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552502,7151,11,Região Metropolitana de São Paulo,-23.608293,-46.310487,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552551,2945,18,Interior / Fora de RM,-20.472813,-51.075457,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552601,7153,17,Interior / Fora de RM,-20.931765,-49.028915,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552700,7155,16,Interior / Fora de RM,-21.712677,-48.62918,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552809,7157,11,Região Metropolitana de São Paulo,-23.620528,-46.786242,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3552908,7159,18,Interior / Fora de RM,-22.504811,-51.342227,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553005,7161,14,Interior / Fora de RM,-23.474458,-49.397433,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553104,7163,16,Interior / Fora de RM,-21.132339,-48.530265,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553203,7165,16,Região Metropolitana de Ribeirão Preto,-21.132649,-48.428244,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553302,7167,19,Região Metropolitana de Ribeirão Preto,-21.601741,-47.239043,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553401,7169,17,Região Metropolitana de São José do Rio Preto,-20.531178,-49.646222,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553500,7171,15,Região Metropolitana de Sorocaba,-24.008721,-47.619389,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553609,7173,19,Interior / Fora de RM,-21.450896,-46.741987,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553658,824,16,Região Metropolitana de Ribeirão Preto,-21.069275,-48.399161,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553708,7175,16,Interior / Fora de RM,-21.425614,-48.537659,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553807,7177,14,Interior / Fora de RM,-23.530207,-49.234622,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553856,3063,15,Interior / Fora de RM,-23.943346,-48.687966,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553906,7179,18,Interior / Fora de RM,-22.358021,-51.625764,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3553955,7267,18,Interior / Fora de RM,-22.763505,-50.601475,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554003,7181,15,Região Metropolitana de Sorocaba,-23.362143,-47.869533,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554102,7183,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.08716,-45.502446,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554201,7185,14,Interior / Fora de RM,-23.342562,-49.306582,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554300,7187,18,Interior / Fora de RM,-22.416575,-52.374138,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554409,7189,17,Interior / Fora de RM,-20.77873,-48.345723,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554508,7191,15,Região Metropolitana de Sorocaba,-23.049454,-47.707682,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554607,7193,14,Interior / Fora de RM,-23.195833,-49.610341,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554656,3227,15,Interior / Fora de RM,-23.250103,-48.212697,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554706,7195,14,Interior / Fora de RM,-22.444566,-48.164488,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554755,826,16,Interior / Fora de RM,-22.032278,-48.345254,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554805,7197,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-22.940907,-45.604216,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554904,7199,17,Interior / Fora de RM,-20.273767,-50.869636,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3554953,2955,11,Interior / Fora de RM,-22.83031,-46.687633,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555000,7201,14,Interior / Fora de RM,-21.947668,-50.5347,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555109,7203,18,Interior / Fora de RM,-21.390562,-51.587075,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555208,7205,18,Interior / Fora de RM,-20.940632,-50.111134,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555307,7207,17,Interior / Fora de RM,-20.083508,-50.456727,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555356,2971,17,Região Metropolitana de São José do Rio Preto,-21.219932,-49.748266,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555406,7209,12,Região Metropolitana do Vale do Paraíba e Litoral Norte,-23.382604,-45.024205,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555505,7211,14,Interior / Fora de RM,-22.544467,-49.665958,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555604,7213,17,Região Metropolitana de São José do Rio Preto,-20.937068,-49.15775,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555703,7215,17,Região Metropolitana de São José do Rio Preto,-20.890692,-49.887097,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555802,7217,17,Interior / Fora de RM,-20.208891,-50.652404,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3555901,7219,14,Interior / Fora de RM,-21.765871,-49.296316,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556008,7221,17,Região Metropolitana de São José do Rio Preto,-21.205213,-49.26515,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556107,7223,17,Interior / Fora de RM,-20.42075,-50.101614,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556206,7225,19,Região Metropolitana de Campinas,-22.975064,-46.981328,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556305,7227,18,Interior / Fora de RM,-21.20331,-50.923823,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556354,2957,11,Interior / Fora de RM,-22.890141,-46.414574,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556404,7231,19,Interior / Fora de RM,-21.86076,-46.898918,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556453,7273,11,Região Metropolitana de São Paulo,-23.620929,-47.014727,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556503,7233,11,Região Metropolitana de Jundiaí,-23.219282,-46.824982,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556602,7235,14,Interior / Fora de RM,-22.234341,-49.826103,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556701,7237,19,Região Metropolitana de Campinas,-23.046729,-46.979213,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556800,7239,17,Interior / Fora de RM,-20.884348,-48.309955,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556909,7241,16,Interior / Fora de RM,-21.176779,-48.649272,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3556958,828,17,Interior / Fora de RM,-20.198412,-50.485388,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3557006,7243,15,Região Metropolitana de Sorocaba,-23.579861,-47.406544,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3557105,7245,17,Interior / Fora de RM,-20.457979,-49.989228,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3557154,2973,18,Região Metropolitana de São José do Rio Preto,-21.125406,-50.049416,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3557204,6337,14,Interior / Fora de RM,-23.046452,-49.726487,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z
+3557303,2959,19,Interior / Fora de RM,-22.236005,-46.943171,IBGE Geociencias / Diretorio Oficial Base dos Dados (centroide ST_GEOGPOINT),2026-11-05T00:58:47Z

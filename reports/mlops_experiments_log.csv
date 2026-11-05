@@ -1,0 +1,21 @@
+run_id,versao_dados,tipo_tarefa,algoritmo,parametros,metrica_principal_nome,metrica_principal_valor,accuracy,precision_macro,recall_macro,f1_macro,roc_auc_ovr,davies_bouldin,calinski_harabasz,data_execucao
+RUN-01,v2.0-ibge-2022-silver,Clusterizacao,K-Means,"n_clusters=3, n_init=50, random_state=42",Silhouette Score,0.2541,,,,,,1.3485,325.72,2026-11-04T23:42:55Z
+RUN-02,v2.0-ibge-2022-silver,Clusterizacao,Agglomerative Ward,"n_clusters=3, linkage=ward",Silhouette Score,0.2512,,,,,,1.4064,283.56,2026-11-04T23:42:55Z
+RUN-03,v2.0-ibge-2022-silver,Clusterizacao,K-Means,"n_clusters=4, n_init=50, random_state=42",Silhouette Score,0.2413,,,,,,1.2926,286.72,2026-11-04T23:42:55Z
+RUN-04,v2.0-ibge-2022-silver,Clusterizacao,Agglomerative Ward,"n_clusters=4, linkage=ward",Silhouette Score,0.2415,,,,,,1.3379,245.77,2026-11-04T23:42:55Z
+RUN-05,v2.0-ibge-2022-silver,Clusterizacao,K-Means,"n_clusters=5, n_init=50, random_state=42",Silhouette Score,0.2105,,,,,,1.3694,260.96,2026-11-04T23:42:55Z
+RUN-06,v2.0-ibge-2022-silver,Clusterizacao,Agglomerative Ward,"n_clusters=5, linkage=ward",Silhouette Score,0.159,,,,,,1.465,226.38,2026-11-04T23:42:55Z
+RUN-07,v2.0-ibge-2022-silver,Clusterizacao,K-Means,"n_clusters=6, n_init=50, random_state=42",Silhouette Score,0.2096,,,,,,1.4076,234.81,2026-11-04T23:42:55Z
+RUN-08,v2.0-ibge-2022-silver,Clusterizacao,Agglomerative Ward,"n_clusters=6, linkage=ward",Silhouette Score,0.1451,,,,,,1.5735,201.31,2026-11-04T23:42:55Z
+RUN-09,v2.0-ibge-2022-silver,Classificacao_Formato_Loja,Baseline Majority Class,strategy=prior,F1-Score (Macro),0.2178,0.7716,0.1929,0.25,0.2178,0.5,,,2026-11-04T23:42:55Z
+RUN-10,v2.0-ibge-2022-silver,Classificacao_Formato_Loja,Logistic Regression,"C=1.0, max_iter=1000, multi_class=multinomial",F1-Score (Macro),0.6602,0.8951,0.6547,0.666,0.6602,0.9481,,,2026-11-04T23:42:55Z
+RUN-11,v2.0-ibge-2022-silver,Classificacao_Formato_Loja,Decision Tree,"max_depth=5, min_samples_leaf=5, criterion=gini",F1-Score (Macro),0.8124,0.9506,0.8402,0.7994,0.8124,0.9817,,,2026-11-04T23:42:55Z
+RUN-12,v2.0-ibge-2022-silver,Classificacao_Formato_Loja,Random Forest (n=100),"n_estimators=100, max_depth=8, random_state=42",F1-Score (Macro),0.9454,0.9753,0.9584,0.9343,0.9454,0.9951,,,2026-11-04T23:42:55Z
+RUN-13,v2.0-ibge-2022-silver,Classificacao_Formato_Loja,Random Forest (n=200),"n_estimators=200, max_depth=10, class_weight=balanced",F1-Score (Macro),0.9454,0.9753,0.9584,0.9343,0.9454,0.9976,,,2026-11-04T23:42:55Z
+RUN-14,v2.0-ibge-2022-silver,Classificacao_Formato_Loja,Gradient Boosting,"n_estimators=100, learning_rate=0.1, max_depth=4",F1-Score (Macro),0.9321,0.9753,0.9336,0.9343,0.9321,0.9892,,,2026-11-04T23:42:55Z
+RUN-15,v3.0-ibge-cnpj-concorrentes,Clusterizacao,K-Means (+ Concorrentes CNPJ),"n_clusters=4, n_init=50, features=12 (IBGE+CNAE)",Silhouette Score,0.2141,,,,,,1.4122,230.05,2026-11-05T00:33:12Z
+RUN-16,v3.0-ibge-cnpj-concorrentes,Classificacao_Formato_Loja,Logistic Regression (+ Concorrentes),"C=1.0, max_iter=1000, features=12",F1-Score (Macro),0.6757,0.8951,0.768,0.6524,0.6757,0.9706,,,2026-11-05T00:33:12Z
+RUN-17,v3.0-ibge-cnpj-concorrentes,Classificacao_Formato_Loja,Decision Tree (+ Concorrentes),"max_depth=5, min_samples_leaf=5, features=12",F1-Score (Macro),0.7582,0.9259,0.7982,0.7337,0.7582,0.924,,,2026-11-05T00:33:12Z
+RUN-18,v3.0-ibge-cnpj-concorrentes,Classificacao_Formato_Loja,"Random Forest (n=100, + Concorrentes)","n_estimators=100, max_depth=8, features=12",F1-Score (Macro),0.849,0.9383,0.8659,0.8373,0.849,0.9812,,,2026-11-05T00:33:12Z
+RUN-19,v3.0-ibge-cnpj-concorrentes,Classificacao_Formato_Loja,"Random Forest (n=200, + Concorrentes)","n_estimators=200, max_depth=10, class_weight=balanced, features=12",F1-Score (Macro),0.848,0.9506,0.8646,0.8389,0.848,0.983,,,2026-11-05T00:33:12Z
+RUN-20,v3.0-ibge-cnpj-concorrentes,Classificacao_Formato_Loja,Gradient Boosting (+ Concorrentes),"n_estimators=100, learning_rate=0.1, max_depth=4, features=12",F1-Score (Macro),0.764,0.9321,0.7927,0.7457,0.764,0.9784,,,2026-11-05T00:33:12Z
