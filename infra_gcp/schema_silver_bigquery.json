@@ -1,0 +1,236 @@
+[
+  {
+    "name": "cd_municipio",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Código oficial do município no padrão IBGE de 7 dígitos | Domínio: 3500105 a 3557303 | Qualidade: 100% preenchido, unicidade absoluta (chave primária)"
+  },
+  {
+    "name": "nm_municipio",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Nome oficial do município paulista | Domínio: 645 municípios oficiais do Estado de SP | Qualidade: 100% íntegro, sem caracteres inválidos ou duplicatas"
+  },
+  {
+    "name": "sg_uf",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Sigla da Unidade da Federação | Domínio: SP | Qualidade: 100% consistente (restringe o escopo ao Estado de SP)"
+  },
+  {
+    "name": "cd_microrregiao",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Código identificador da microrregião geográfica IBGE | Domínio: Classificação político-geográfica IBGE | Qualidade: 100% completo e padronizado"
+  },
+  {
+    "name": "nm_microrregiao",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Nome da microrregião geográfica | Domínio: 63 microrregiões paulistas | Qualidade: 100% padronizado"
+  },
+  {
+    "name": "cd_mesorregiao",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Código identificador da mesorregião geográfica IBGE | Domínio: Classificação político-geográfica IBGE | Qualidade: 100% completo e padronizado"
+  },
+  {
+    "name": "nm_mesorregiao",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Nome da mesorregião geográfica | Domínio: 15 mesorregiões paulistas (ex: Macro Metropolitana, Campinas) | Qualidade: 100% padronizado"
+  },
+  {
+    "name": "cd_regiao_imediata",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Código da Região Geográfica Imediata (divisão regional moderna IBGE) | Domínio: Classificação IBGE 2017+ | Qualidade: 100% completo"
+  },
+  {
+    "name": "nm_regiao_imediata",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Nome da Região Geográfica Imediata de referência | Domínio: Regiões imediatas de centros urbanos de SP | Qualidade: 100% íntegro"
+  },
+  {
+    "name": "cd_regiao_intermediaria",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Código da Região Geográfica Intermediária | Domínio: Classificação IBGE 2017+ | Qualidade: 100% completo"
+  },
+  {
+    "name": "nm_regiao_intermediaria",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Nome da Região Geográfica Intermediária | Domínio: Regiões intermediárias de SP (ex: São Paulo, Campinas, Sorocaba) | Qualidade: 100% íntegro"
+  },
+  {
+    "name": "qt_populacao_residente",
+    "type": "INT64",
+    "mode": "REQUIRED",
+    "description": "População total residente apurada pelo Censo Demográfico 2022 | Domínio: 807 (Borá) a 11.451.245 (São Paulo) | Qualidade: 100% validado; Censo oficial do IBGE"
+  },
+  {
+    "name": "vl_area_territorial_km2",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Área territorial oficial da unidade municipal em km² | Domínio: 3,565 a 1.977,961 km² | Qualidade: 100% consistente; georreferenciamento IBGE"
+  },
+  {
+    "name": "vl_densidade_demografica_hab_km2",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Densidade demográfica (habitantes por quilômetro quadrado) | Domínio: 4,49 a 13.060,94 hab/km² | Qualidade: 100% calculado e consistente com população/área"
+  },
+  {
+    "name": "qt_unidades_locais_empresas",
+    "type": "INT64",
+    "mode": "REQUIRED",
+    "description": "Quantidade de unidades locais de empresas ativas (CEMPRE 2022) | Domínio: 34 a 582.417 empresas ativas | Qualidade: 100% preenchido"
+  },
+  {
+    "name": "qt_pessoal_ocupado_total",
+    "type": "INT64",
+    "mode": "REQUIRED",
+    "description": "Total de pessoas ocupadas no município (CEMPRE 2022) | Domínio: 64 a 6.012.389 pessoas | Qualidade: 100% consistente (maior ou igual ao pessoal assalariado)"
+  },
+  {
+    "name": "qt_pessoal_ocupado_assalariado",
+    "type": "INT64",
+    "mode": "REQUIRED",
+    "description": "Total de pessoas ocupadas assalariadas com vínculo formal | Domínio: 48 a 5.214.908 pessoas | Qualidade: 100% completo"
+  },
+  {
+    "name": "vl_massa_salarial_anual_mil_reais",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Massa salarial anual e remunerações pagas pelo setor formal (Mil R$) | Domínio: R$ 1.482,00 a R$ 342.150.840,00 mil | Qualidade: 100% preenchido e tipado"
+  },
+  {
+    "name": "vl_salario_medio_mensal_reais",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Salário médio mensal pago aos trabalhadores formais em Reais | Domínio: R$ 1.942,50 a R$ 6.840,10 | Qualidade: 100% consistente (acima do salário mínimo 2022)"
+  },
+  {
+    "name": "vl_massa_salarial_per_capita_reais",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Massa salarial anual por habitante (Poder de compra direto) | Domínio: R$ 1.250,00 a R$ 42.180,00 | Qualidade: Métrica derivada governada; 100% calculada"
+  },
+  {
+    "name": "vl_pib_total_mil_reais",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Produto Interno Bruto municipal a preços correntes (Mil R$ - 2022) | Domínio: R$ 29.840,00 a R$ 828.980.608,00 mil | Qualidade: 100% apurado pelo IBGE Contas Regionais"
+  },
+  {
+    "name": "vl_pib_per_capita_reais",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "PIB per capita municipal a preços correntes em Reais (2022) | Domínio: R$ 12.349,27 a R$ 713.159,13 | Qualidade: 100% consistente; auditado contra distorções atípicas"
+  },
+  {
+    "name": "vl_vab_servicos_projetado_mil_reais",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "VAB do setor de Serviços (exclusive administração pública) projetado (Mil R$) | Domínio: Valores não negativos | Qualidade: Imputação fundamentada pela matriz setorial de 2021"
+  },
+  {
+    "name": "vl_vab_industria_projetado_mil_reais",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "VAB do setor Industrial projetado para 2022 (Mil R$) | Domínio: Valores não negativos | Qualidade: Imputação fundamentada pela matriz setorial de 2021"
+  },
+  {
+    "name": "vl_vab_agropecuaria_projetado_mil_reais",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "VAB da Agropecuária projetado para 2022 (Mil R$) | Domínio: Valores não negativos | Qualidade: Imputação fundamentada pela matriz setorial de 2021"
+  },
+  {
+    "name": "vl_vab_adm_publica_projetado_mil_reais",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "VAB da Administração Pública projetado para 2022 (Mil R$) | Domínio: Valores não negativos | Qualidade: Imputação fundamentada pela matriz setorial de 2021"
+  },
+  {
+    "name": "pc_servicos_economia",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Participação percentual do setor de serviços no VAB total (%) | Domínio: 0.0 a 100.0% | Qualidade: 100% calculado"
+  },
+  {
+    "name": "pc_industria_economia",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Participação percentual da indústria no VAB total (%) | Domínio: 0.0 a 100.0% | Qualidade: 100% calculado"
+  },
+  {
+    "name": "pc_agropecuaria_economia",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Participação percentual da agropecuária no VAB total (%) | Domínio: 0.0 a 100.0% | Qualidade: 100% calculado"
+  },
+  {
+    "name": "ds_porte_populacional",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Classificação da praça por porte populacional para alocação de formatos de loja | Domínio: Pequeno I, Pequeno II, Médio Porte, Grande Porte, Metrópole | Qualidade: 100% categorizado"
+  },
+  {
+    "name": "vl_densidade_empresarial_por_mil_hab",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Número de empresas locais ativas para cada 1.000 habitantes | Domínio: 5.0 a 85.0 empresas/mil hab | Qualidade: 100% calculado"
+  },
+  {
+    "name": "ds_vocacao_economica",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Setor econômico predominante no município para adequação do sortimento | Domínio: Serviços e Comércio, Industrial, Agropecuário | Qualidade: 100% categorizado"
+  },
+  {
+    "name": "qt_concorrentes_hipermercados",
+    "type": "INT64",
+    "mode": "REQUIRED",
+    "description": "Quantidade de hipermercados concorrentes ativos no municipio (Receita Federal CNAE 4711-3/01)"
+  },
+  {
+    "name": "qt_concorrentes_supermercados",
+    "type": "INT64",
+    "mode": "REQUIRED",
+    "description": "Quantidade de supermercados concorrentes ativos no municipio (Receita Federal CNAE 4711-3/02)"
+  },
+  {
+    "name": "qt_concorrentes_atacadistas",
+    "type": "INT64",
+    "mode": "REQUIRED",
+    "description": "Quantidade de atacadistas/atacarejos de alimentos e mercadorias ativos (CNAEs 4691-5/00, 4639-7/01, 4639-7/02)"
+  },
+  {
+    "name": "qt_minimercados_mercearias",
+    "type": "INT64",
+    "mode": "REQUIRED",
+    "description": "Quantidade de minimercados e mercearias ativas (CNAE 4712-1/00) - Clientes B2B do Atacarejo e concorrentes de proximidade"
+  },
+  {
+    "name": "qt_concorrentes_diretos_total",
+    "type": "INT64",
+    "mode": "REQUIRED",
+    "description": "Total de concorrentes diretos de medio e grande porte (Hipermercados + Supermercados + Atacadistas)"
+  },
+  {
+    "name": "vl_concorrentes_por_10k_hab",
+    "type": "FLOAT64",
+    "mode": "REQUIRED",
+    "description": "Indice de densidade concorrencial: Lojas de Hiper/Super/Atacadistas para cada 10.000 habitantes"
+  },
+  {
+    "name": "ds_saturacao_concorrencial",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Classificacao do nivel de saturacao concorrencial da praca (Baixa Saturacao / Oceano Azul, Moderada, Alta Saturacao)"
+  }
+]

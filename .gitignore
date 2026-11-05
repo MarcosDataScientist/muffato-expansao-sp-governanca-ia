@@ -1,0 +1,18 @@
+# Byte-compiled / cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos de sistema macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Credenciais locais (Nunca versionar chaves de serviço GCP)
+*.json.key
+service-account*.json
+.env
